@@ -1,7 +1,7 @@
 # if true, a Global Graph will be shown on home page with full width, no backlink.
 # A different set of Local Graphs will be shown on sub pages.
 # if false, Local Graph will be default on every page as usual
-enableGlobalGraph: false
+enableGlobalGraph: true
 
 ### Local Graph ###
 
@@ -34,4 +34,4 @@ globalGraph:
 ### For all graphs ###
 
 paths:
-  - /moc: "#4388cc"
+    - /moc: "#4388cc"
