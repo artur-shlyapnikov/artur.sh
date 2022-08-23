@@ -19,8 +19,4 @@ To do:
 
 ### Music
 
-- Simple way to play
-
-### Philosophy
-
-### Psychology
+### Other
